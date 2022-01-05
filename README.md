@@ -1,2 +1,3 @@
-#My project \n
+# My project
 hello world
+hello read me
